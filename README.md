@@ -1,4 +1,4 @@
-# Password-Checker-Group-Project
+# Password-Checker-Group1-Project2
 This project is a password validation interface built in Python. It helps users create secure passwords by checking multiple conditions and providing instant visual feedback.
 
 ## 🔍 Project Overview
