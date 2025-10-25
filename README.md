@@ -48,6 +48,7 @@ This project was developed collaboratively by Group 1:
 - Kuate Mabap Thierry
 - Barthelemy Ndecky
 - Nguemtchueng Tsemo Danielle
+- Ndeye Khady DIOP
 
 
 ## 🎯 Purpose
