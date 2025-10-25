@@ -15,12 +15,18 @@ The password is evaluated against six conditions:
 5. No repeated characters (e.g. "aaa" or "111")
 6. Must not be a common or weak password
 
+# 📁 Files Included
+
+- `password_checker.ipynb` — Jupyter Notebook with code and interface
+- `Project2_groupe1.pdf` — Beamer presentation
+
 ## 🧠 How It Works
 
 - The user types a password in the input field.
 - The `verify()` function checks each rule and updates the labels.
 - The `validate()` function confirms the final result and displays either `True` (valid) or `False` (invalid).
 - The interface is built with Tkinter and designed for clarity and usability.
+
 
 ## 👥 Team Members
 
@@ -30,10 +36,6 @@ This project was developed collaboratively by Group 1:
 - Barthelemy Ndecky
 - Nguemtchueng Tsemo Danielle
 
-## 📁 Files Included
-
-- `password_checker.ipynb` — Jupyter Notebook with code and interface
-- `Project2_groupe1.pdf` — Beamer presentation
 
 ## 🎯 Purpose
 
