@@ -17,7 +17,7 @@ The password is evaluated against six conditions:
 
 # 📁 Files Included
 
-- `password_checker.ipynb` — Jupyter Notebook with code and interface
+- `Project2_groupe1.ipynb` — Jupyter Notebook with code and interface
 - `Project2_groupe1.pdf` — Beamer presentation
 
 ## 🧠 How It Works
