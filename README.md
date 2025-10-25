@@ -27,6 +27,19 @@ The password is evaluated against six conditions:
 - The `validate()` function confirms the final result and displays either `True` (valid) or `False` (invalid).
 - The interface is built with Tkinter and designed for clarity and usability.
 
+ ## Interface 
+
+### ✅ Valid Password Example
+This screenshot shows a password that meets all six conditions. The feedback is green, and the result is `True`.
+
+![Valid Password](interface2.png)
+
+### ❌ Invalid Password Example
+This screenshot shows a password that fails two conditions: it contains spaces and repeated characters. The feedback is mixed, and the result is `False`.
+
+![Invalid Password](interface3.png)
+
+
 
 ## 👥 Team Members
 
